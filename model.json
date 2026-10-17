@@ -1,0 +1,15 @@
+{
+  "id": "happyhorse-1.0",
+  "source": "https://apimart.ai/en/pricing",
+  "extracted_at": "2026-10-17T15:21:21Z",
+  "prices": {
+    "default": {
+      "list": 0.2875,
+      "effective": 0.23
+    }
+  },
+  "rates": {},
+  "unit": "per second",
+  "hook": "from $0.13 per second on the APIMart route",
+  "model_page": "https://apimart.ai/model/happyhorse-1-0"
+}
